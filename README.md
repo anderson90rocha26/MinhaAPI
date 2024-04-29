@@ -22,7 +22,7 @@ O Programa CLasse usa os seguintes recursos do C#:
 Declarações de nível superior (Não use o método Main)
 Global Usings - Uso de cláusulas using de forma implícita (sem declarações using)
 
-**Estruitura do projeto**
+**Estrutura do projeto**
 
 - *Connected Services:* Contém qualquer serviço conectado ao seu projeto. Por exemplo, se você estiver usando o Azure, esta pasta conterá suas configurações de conexão ao Azure.
 - *Dependencies:* Contém as propriedades do seu projeto. Isso inclui as configuraçõe e ferramentas de que seu projeto precisa para funcionar.
